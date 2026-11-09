@@ -30,9 +30,7 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      # Step 3: Setup Android SDK
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
+
 
       # Step 4: Setup Gradle
       - name: Setup Gradle
