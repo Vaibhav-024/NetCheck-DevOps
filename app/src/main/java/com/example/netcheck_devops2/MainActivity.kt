@@ -1,5 +1,4 @@
-
-package com.example.netcheck
+package com.example.netcheck_devops2
 
 import android.content.Context
 import android.net.ConnectivityManager
